@@ -1,7 +1,6 @@
+Kesyfi Anand/452024611013
 Inventory app
 ==================================
-
-Solution code for Android Basics with Compose.
 
 Introduction
 ------------
@@ -27,3 +26,6 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+
+<img width="442" height="990" alt="Screenshot 2026-06-29 132211" src="https://github.com/user-attachments/assets/fba0b265-bc22-4d02-91a1-c11a1a022858" />
+
